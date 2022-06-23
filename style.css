@@ -1,0 +1,93 @@
+ .background {
+     /* b5dbbf  #ADC9AD */
+     background-color: #ADC9AD;
+ }
+
+ .government {
+     font-size: 20px;
+ }
+
+ .banladesh {
+     font-size: 30px;
+ }
+
+
+ .colorr {
+
+     color: rgb(94, 73, 73);
+ }
+
+ .application {
+     color: rgb(0, 0, 0);
+ }
+
+ .bg {
+
+     background-color: #8FB68F;
+
+ }
+
+
+ .tablebgcolor {
+
+     background-color: #E4EDE4;
+ }
+
+
+
+
+
+
+ .habijabi {
+     margin: auto;
+     margin-top: 10vh;
+     width: 320px;
+     height: 180px;
+     margin-left: 450px;
+     border: 1px solid black;
+     padding: 10px 10px 10px 10px;
+     border-radius: 20px;
+
+ }
+
+ input {
+     border: 1px solid rgb(214, 214, 224);
+     border-radius: 5px;
+ }
+
+ td:first-child {
+     width: 100px;
+ }
+
+ .threebackgroundcolor {
+     background-color: #8FB68F;
+ }
+
+
+
+
+
+ .text-dark {
+
+     margin-left: 125px;
+ }
+
+ .p {
+     background-color: #8FB68F;
+     padding: 10px;
+ }
+
+
+ .p-1 {
+
+     margin-left: 116px;
+ }
+
+ .margin {
+     border: 1px solid black;
+ }
+
+ .green {
+     background-color: rgb(84, 85, 66);
+
+ }
